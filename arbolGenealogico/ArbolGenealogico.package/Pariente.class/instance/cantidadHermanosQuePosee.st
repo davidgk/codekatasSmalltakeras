@@ -1,0 +1,3 @@
+public
+cantidadHermanosQuePosee
+	^ hermanos size .

@@ -1,0 +1,3 @@
+public
+getHijos
+	^ hijos.

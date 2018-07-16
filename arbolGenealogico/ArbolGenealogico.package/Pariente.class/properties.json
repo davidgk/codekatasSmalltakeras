@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ArbolGenealogico-main",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"apellido",
+		"hermanos",
+		"esFemenino",
+		"padres",
+		"hijos",
+		"pareja"
+	],
+	"name" : "Pariente",
+	"type" : "normal"
+}
