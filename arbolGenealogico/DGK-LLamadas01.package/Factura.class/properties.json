@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DGK-LLamadas01",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cargoFijo",
+		"montoLLamadaLocal",
+		"montoLLamadaInternacional"
+	],
+	"name" : "Factura",
+	"type" : "normal"
+}

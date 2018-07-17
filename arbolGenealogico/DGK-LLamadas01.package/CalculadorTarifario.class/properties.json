@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DGK-LLamadas01",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tarifadorLocal",
+		"costoLocalFindeSemana",
+		"costoLocalFranja1",
+		"costoLocalFranja2"
+	],
+	"name" : "CalculadorTarifario",
+	"type" : "normal"
+}

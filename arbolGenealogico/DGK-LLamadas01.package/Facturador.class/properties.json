@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DGK-LLamadas01",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nomina",
+		"facturasCreadas",
+		"yearToFacturar",
+		"mesAFacturar",
+		"calculadorTarifario"
+	],
+	"name" : "Facturador",
+	"type" : "normal"
+}

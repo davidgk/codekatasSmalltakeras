@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DGK-LLamadas01",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mesDeOcurrencia",
+		"yearOcurrencia",
+		"destino",
+		"diaLlamada",
+		"minutosDuracion",
+		"ocurrencia"
+	],
+	"name" : "Llamada",
+	"type" : "normal"
+}
