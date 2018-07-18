@@ -1,9 +1,10 @@
 tests
 testCalendarioDGK_03
 	"given:"
-		| calendario result |
-		calendario:= CalendarioDGK crearConDiasLaborales: diasLaboralesDefault diasDescanso: diasDescansoDefault.
+		| calendario result fechaCaeEnNoSabadoDOmingo |
+		calendario:= CalendarioDGK crearConDiasDescanso:diasDescansoDefault.
+		fechaCaeEnNoSabadoDOmingo:= DateAndTime year:2015 month:12 day: 23.
 	"when:"
-		result := calendario esDiaDescanso: #sabado.
+		result := calendario esFeriado: fechaCaeEnNoSabadoDOmingo.
 	"then :"
-		self assert: result.
+		self deny: result.

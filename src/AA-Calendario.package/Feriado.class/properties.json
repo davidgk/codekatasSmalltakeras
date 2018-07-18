@@ -6,10 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"diasLaborales",
-		"diasDescanso",
-		"misFeriados"
+		"dia",
+		"mes"
 	],
-	"name" : "CalendarioDGK",
+	"name" : "Feriado",
 	"type" : "normal"
 }
