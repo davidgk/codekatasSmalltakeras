@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AA-Calendario",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"diasLaborales",
+		"diasDescanso"
+	],
+	"name" : "CalendarioDGK",
+	"type" : "normal"
+}

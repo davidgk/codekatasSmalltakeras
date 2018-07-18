@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "AA-Calendario",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"diasLaboralesDefault",
+		"diasDescansoDefault"
+	],
+	"name" : "TestCalendarioDGK",
+	"type" : "normal"
+}
