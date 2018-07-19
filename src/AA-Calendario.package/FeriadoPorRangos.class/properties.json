@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractFeriado",
+	"category" : "AA-Calendario",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fechaInicio",
+		"fechaFin",
+		"feriados"
+	],
+	"name" : "FeriadoPorRangos",
+	"type" : "normal"
+}

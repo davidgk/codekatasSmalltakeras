@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Feriado",
+	"category" : "AA-Calendario",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"year"
+	],
+	"name" : "FeriadoEspecifico",
+	"type" : "normal"
+}
