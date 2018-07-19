@@ -1,15 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "AbstractFeriado",
 	"category" : "AA-Calendario",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"diasLaborales",
-		"diasDescanso",
-		"misFeriados"
+		"dia",
+		"mes"
 	],
-	"name" : "CalendarioDGK",
+	"name" : "Feriado",
 	"type" : "normal"
 }

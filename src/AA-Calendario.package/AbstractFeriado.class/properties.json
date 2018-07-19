@@ -5,11 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"diasLaborales",
-		"diasDescanso",
-		"misFeriados"
-	],
-	"name" : "CalendarioDGK",
+	"instvars" : [ ],
+	"name" : "AbstractFeriado",
 	"type" : "normal"
 }
