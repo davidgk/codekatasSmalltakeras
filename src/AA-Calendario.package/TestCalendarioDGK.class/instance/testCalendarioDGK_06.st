@@ -7,6 +7,6 @@ testCalendarioDGK_06
 		
 	"when:"
 		fecha:= DateAndTime year:2015 month:12 day: 25.
-		result := feriado correspondeParaEstaFecha: fecha.
+		result := feriado evaluate: fecha.
 	"then :"
 		self assert: result.

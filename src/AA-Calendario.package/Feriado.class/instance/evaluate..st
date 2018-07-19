@@ -1,3 +1,3 @@
 as yet unclassified
-correspondeParaEstaFecha: aDateAndTime 
+evaluate: aDateAndTime 
 	^ (aDateAndTime dayOfMonth = dia) & (aDateAndTime month = mes)
