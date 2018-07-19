@@ -1,3 +1,3 @@
 as yet unclassified
 correspondeParaEstaFecha: aDateAndTime 
-	self shouldBeImplemented.
+	^ (aDateAndTime dayOfMonth = dia) & (aDateAndTime month = mes)

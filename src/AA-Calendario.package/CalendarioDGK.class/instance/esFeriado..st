@@ -4,5 +4,5 @@ esFeriado: aDia
 	diaDeLaFecha:= aDia dayOfWeekName .
 	result := diasDescanso includes: diaDeLaFecha.
 	(result)
-		ifFalse: [ result:= self evaluateMisFeriados: diaDeLaFecha].
+		ifFalse: [ result:= self evaluateMisFeriados: aDia ].
 	^ result 
